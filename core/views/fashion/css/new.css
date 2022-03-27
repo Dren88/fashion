@@ -1,0 +1,13 @@
+.paginator__item{
+    width: max-content;
+    min-width: 28px;
+    padding: 0 5px;
+}
+li.active-page{
+    display: inline-block;
+    margin: auto 0;
+    margin-right: 10px;
+}
+.product__name{
+    width: 270px;
+}
